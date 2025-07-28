@@ -8,7 +8,7 @@
 
 ### 👨‍💻 À propos de moi
 
-- 🔭 Je travaille actuellement sur **des projets de digitalisation**
+- 🔭 Développeur web passionné, spécialisé dans le frontend avec un fort intérêt pour le design UI/UX. Je m’adapte aussi au backend pour assurer des applications complètes, performantes et   agréables à utiliser.
 - 🌱 J’utilise principalement **React, NestJS, Node.js, TailwindCSS, JavaScript**
 - 📫 Me contacter : **rakotomampiadry@gmail.com**
 - 🌐 Mon portfolio : [https://micka.vercel.app](https://micka.vercel.app)
